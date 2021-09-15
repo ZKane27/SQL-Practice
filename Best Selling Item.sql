@@ -3,7 +3,7 @@
 -- Create a unitprice*quantity value, Group by stockcode and month
 -- max for each item
 
-(mine, worked, ugly tho)
+-- (mine, worked, ugly tho)
 SELECT 
     DISTINCT month,
     o.description,
