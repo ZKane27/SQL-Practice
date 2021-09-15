@@ -1,8 +1,8 @@
 -- Find the second highest salary of employees.
 
-- Use DISTINCT to filter out duplicate values.
-- Use ORDER BY to order salaries in descending order.
-- Use LIMIT followed by OFFSET to find the desired record.
+-- Use DISTINCT to filter out duplicate values.
+-- Use ORDER BY to order salaries in descending order.
+-- Use LIMIT followed by OFFSET to find the desired record.
 
 select
     DISTINCT salary
